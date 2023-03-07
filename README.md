@@ -14,9 +14,8 @@ If you'd like to customize the project, you can do so by modifying the style.css
 #### How to Use
 1. Open a command prompt or terminal window on their computer.
 2. Navigate to the directory where they want to store the project files.
-3. Run the following command to clone the project repository to their local machine:
-'git clone https://github.com/Userfound404/blur-image-slide.git'
-4. Once the repository has been cloned, navigate to the project directory: 'cd blur-image-slide'
+3. Run the following command to clone the project repository to their local machine: `git clone https://github.com/Userfound404/blur-image-slide.git`
+4. Once the repository has been cloned, navigate to the project directory: `cd blur-image-slide`
 5. Open the index.html file in their preferred web browser to view the image carousel.
 6. If you want to change any other file, you can open the style.css and script.js files in their preferred code editor and modify the code as needed.
 7. To see the changes you made in their web browser, simply refresh the page.
