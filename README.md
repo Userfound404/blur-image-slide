@@ -5,7 +5,9 @@ This is a simple web-based project that displays a carousel of images. The image
 This project contains the following files:
 
 *index.html*: The main HTML file that displays the image carousel.
+
 *style.css*: The CSS file that defines the styling for the image carousel.
+
 *script.js*: The JavaScript file that defines the behavior of the image carousel.
 
 ### Customization
@@ -20,7 +22,7 @@ If you'd like to customize the project, you can do so by modifying the style.css
 6. If you want to change any other file, you can open the style.css and script.js files in their preferred code editor and modify the code as needed.
 7. To see the changes you made in their web browser, simply refresh the page.
 
-### Live Link - https://userfound404.github.io/blur-image-slide/
+### Live Link - https://userfound404.github.io/blur-image-slide
 
 ### Demo
 ![imageSlider](https://user-images.githubusercontent.com/97509220/223456133-c1ed195f-52c7-4e9c-af72-1515f6546872.gif)
